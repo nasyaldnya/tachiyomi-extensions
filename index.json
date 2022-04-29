@@ -9580,10 +9580,10 @@
   {
     "name": "Tachiyomi: Mangakik",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakik",
-    "apk": "tachiyomi-en.mangakik-v1.2.20.apk",
+    "apk": "tachiyomi-en.mangakik-v1.2.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9592,7 +9592,7 @@
         "name": "Mangakik",
         "lang": "en",
         "id": "252333525425463189",
-        "baseUrl": "https://mangakik.com"
+        "baseUrl": "https://mangakik.net"
       }
     ]
   },
@@ -20282,10 +20282,10 @@
   {
     "name": "Tachiyomi: Mundo Mangá-Kun",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
-    "apk": "tachiyomi-pt.mundomangakun-v1.2.7.apk",
+    "apk": "tachiyomi-pt.mundomangakun-v1.2.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20339,10 +20339,10 @@
   {
     "name": "Tachiyomi: Neox Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.2.31.apk",
+    "apk": "tachiyomi-pt.neoxscanlator-v1.2.32.apk",
     "lang": "pt-BR",
-    "code": 31,
-    "version": "1.2.31",
+    "code": 32,
+    "version": "1.2.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20719,10 +20719,10 @@
   {
     "name": "Tachiyomi: Tao Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taosect",
-    "apk": "tachiyomi-pt.taosect-v1.2.15.apk",
+    "apk": "tachiyomi-pt.taosect-v1.2.16.apk",
     "lang": "pt-BR",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
