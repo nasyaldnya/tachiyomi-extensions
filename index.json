@@ -6977,10 +6977,10 @@
   {
     "name": "Tachiyomi: GoGoManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.gogomanga",
-    "apk": "tachiyomi-en.gogomanga-v1.2.14.apk",
+    "apk": "tachiyomi-en.gogomanga-v1.2.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6989,7 +6989,7 @@
         "name": "GoGoManga",
         "lang": "en",
         "id": "2769108387099259900",
-        "baseUrl": "https://gogomanga.org"
+        "baseUrl": "https://gogomanga.fun"
       }
     ]
   },
@@ -10566,25 +10566,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaStream.xyz",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangastreamxyz",
-    "apk": "tachiyomi-en.mangastreamxyz-v1.2.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaStream.xyz",
-        "lang": "en",
-        "id": "2068159019620749478",
-        "baseUrl": "http://mangastream.xyz"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangasushi",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasushi",
     "apk": "tachiyomi-en.mangasushi-v1.2.22.apk",
@@ -11630,6 +11611,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhwaClan",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwaclan",
+    "apk": "tachiyomi-en.manhwaclan-v1.2.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaClan",
+        "lang": "en",
+        "id": "3313733609433811176",
+        "baseUrl": "https://manhwaclan.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhwaClub",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwaclub",
     "apk": "tachiyomi-en.manhwaclub-v1.2.4.apk",
@@ -11879,10 +11879,10 @@
   {
     "name": "Tachiyomi: Manta Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.manta",
-    "apk": "tachiyomi-en.manta-v1.2.2.apk",
+    "apk": "tachiyomi-en.manta-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14064,10 +14064,10 @@
   {
     "name": "Tachiyomi: Shimada Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.shimadascans",
-    "apk": "tachiyomi-en.shimadascans-v1.2.12.apk",
+    "apk": "tachiyomi-en.shimadascans-v1.2.20.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14075,7 +14075,7 @@
       {
         "name": "Shimada Scans",
         "lang": "en",
-        "id": "8240465236242834470",
+        "id": "758019560871566190",
         "baseUrl": "https://shimadascans.com"
       }
     ]
@@ -15848,6 +15848,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Emperor Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
+    "apk": "tachiyomi-es.emperorscan-v1.2.20.apk",
+    "lang": "es",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Emperor Scan",
+        "lang": "es",
+        "id": "4562754350961964148",
+        "baseUrl": "https://emperorscan.com/"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Fusion Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.fusionscanlation",
     "apk": "tachiyomi-es.fusionscanlation-v1.2.14.apk",
@@ -16376,6 +16395,25 @@
         "lang": "es",
         "id": "5810843478993960074",
         "baseUrl": "https://meraki801.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Miau Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.miauscan",
+    "apk": "tachiyomi-es.miauscan-v1.2.12.apk",
+    "lang": "es",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Miau Scan",
+        "lang": "es",
+        "id": "2886862669347225416",
+        "baseUrl": "https://miauscan.com"
       }
     ]
   },
