@@ -21118,10 +21118,10 @@
   {
     "name": "Tachiyomi: HentaiLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libhentai",
-    "apk": "tachiyomi-ru.libhentai-v1.2.14.apk",
+    "apk": "tachiyomi-ru.libhentai-v1.2.15.apk",
     "lang": "ru",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21137,10 +21137,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.70.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.71.apk",
     "lang": "ru",
-    "code": 70,
-    "version": "1.2.70",
+    "code": 71,
+    "version": "1.2.71",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23012,6 +23012,25 @@
         "lang": "zh",
         "id": "2636772176248575356",
         "baseUrl": "https://app2.haomanwu.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Happymh",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
+    "apk": "tachiyomi-zh.happymh-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "嗨皮漫画",
+        "lang": "zh",
+        "id": "6523822705383645833",
+        "baseUrl": "https://m.happymh.com"
       }
     ]
   },
