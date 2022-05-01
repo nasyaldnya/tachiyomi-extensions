@@ -17699,10 +17699,10 @@
   {
     "name": "Tachiyomi: Komik Station",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikstation",
-    "apk": "tachiyomi-id.komikstation-v1.2.16.apk",
+    "apk": "tachiyomi-id.komikstation-v1.2.17.apk",
     "lang": "id",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17711,7 +17711,7 @@
         "name": "Komik Station",
         "lang": "id",
         "id": "6148605743576635261",
-        "baseUrl": "https://komikstation.com"
+        "baseUrl": "https://komikstation.co"
       }
     ]
   },
@@ -19864,10 +19864,10 @@
   {
     "name": "Tachiyomi: HipercooL",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hipercool",
-    "apk": "tachiyomi-pt.hipercool-v1.2.9.apk",
+    "apk": "tachiyomi-pt.hipercool-v1.2.20.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19875,8 +19875,8 @@
       {
         "name": "HipercooL",
         "lang": "pt-BR",
-        "id": "5898568703656160",
-        "baseUrl": "https://hiper.cool"
+        "id": "2379514871370953957",
+        "baseUrl": "https://hipercool.xyz"
       }
     ]
   },
