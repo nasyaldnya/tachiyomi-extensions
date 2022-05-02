@@ -4377,10 +4377,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.2.34.apk",
+    "apk": "tachiyomi-all.webtoons-v1.2.35.apk",
     "lang": "all",
-    "code": 34,
-    "version": "1.2.34",
+    "code": 35,
+    "version": "1.2.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21536,10 +21536,10 @@
   {
     "name": "Tachiyomi: CAT-translator",
     "pkg": "eu.kanade.tachiyomi.extension.th.cattranslator",
-    "apk": "tachiyomi-th.cattranslator-v1.2.21.apk",
+    "apk": "tachiyomi-th.cattranslator-v1.2.22.apk",
     "lang": "th",
-    "code": 21,
-    "version": "1.2.21",
+    "code": 22,
+    "version": "1.2.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21548,7 +21548,7 @@
         "name": "CAT-translator",
         "lang": "th",
         "id": "7675946366494793306",
-        "baseUrl": "https://cat-translator.com"
+        "baseUrl": "https://cats-translator.com/manga"
       }
     ]
   },
@@ -21574,10 +21574,10 @@
   {
     "name": "Tachiyomi: MangaDeemak",
     "pkg": "eu.kanade.tachiyomi.extension.th.mangadeemak",
-    "apk": "tachiyomi-th.mangadeemak-v1.2.20.apk",
+    "apk": "tachiyomi-th.mangadeemak-v1.2.22.apk",
     "lang": "th",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 22,
+    "version": "1.2.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21669,10 +21669,10 @@
   {
     "name": "Tachiyomi: Rh2PlusManga",
     "pkg": "eu.kanade.tachiyomi.extension.th.rh2plusmanga",
-    "apk": "tachiyomi-th.rh2plusmanga-v1.2.23.apk",
+    "apk": "tachiyomi-th.rh2plusmanga-v1.2.24.apk",
     "lang": "th",
-    "code": 23,
-    "version": "1.2.23",
+    "code": 24,
+    "version": "1.2.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
