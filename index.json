@@ -16325,10 +16325,10 @@
   {
     "name": "Tachiyomi: Manhwas.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwasnet",
-    "apk": "tachiyomi-es.manhwasnet-v1.2.1.apk",
+    "apk": "tachiyomi-es.manhwasnet-v1.2.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18953,10 +18953,10 @@
   {
     "name": "Tachiyomi: JMana",
     "pkg": "eu.kanade.tachiyomi.extension.ko.jmana",
-    "apk": "tachiyomi-ko.jmana-v1.2.14.apk",
+    "apk": "tachiyomi-ko.jmana-v1.2.15.apk",
     "lang": "ko",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21023,10 +21023,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.2.18.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.2.19.apk",
     "lang": "ru",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21289,10 +21289,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.41.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.42.apk",
     "lang": "ru",
-    "code": 41,
-    "version": "1.2.41",
+    "code": 42,
+    "version": "1.2.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21346,10 +21346,10 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.40.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.41.apk",
     "lang": "ru",
-    "code": 40,
-    "version": "1.2.40",
+    "code": 41,
+    "version": "1.2.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21422,10 +21422,10 @@
   {
     "name": "Tachiyomi: Selfmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.2.18.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.2.19.apk",
     "lang": "ru",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21435,6 +21435,25 @@
         "lang": "ru",
         "id": "5227602742162454547",
         "baseUrl": "https://selfmanga.live"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: UniComics",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.unicomics",
+    "apk": "tachiyomi-ru.unicomics-v1.2.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "UniComics",
+        "lang": "ru",
+        "id": "6859623422196397486",
+        "baseUrl": "https://unicomics.ru"
       }
     ]
   },
@@ -22822,6 +22841,25 @@
         "lang": "vi",
         "id": "7969606392351831672",
         "baseUrl": "https://truyentranhlh.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Baimangu (Darpou)",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.baimangu",
+    "apk": "tachiyomi-zh.baimangu-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "百漫谷",
+        "lang": "zh",
+        "id": "6537411878674780825",
+        "baseUrl": "https://www.darpou.com/"
       }
     ]
   },
