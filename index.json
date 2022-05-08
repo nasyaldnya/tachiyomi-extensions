@@ -16825,10 +16825,10 @@
   {
     "name": "Tachiyomi: Jpmangas",
     "pkg": "eu.kanade.tachiyomi.extension.fr.jpmangas",
-    "apk": "tachiyomi-fr.jpmangas-v1.2.5.apk",
+    "apk": "tachiyomi-fr.jpmangas-v1.2.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16837,7 +16837,7 @@
         "name": "Jpmangas",
         "lang": "fr",
         "id": "5265169767970536437",
-        "baseUrl": "https://jpmangas.co"
+        "baseUrl": "https://jpmangas.cc"
       }
     ]
   },
@@ -21118,10 +21118,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.2.15.apk",
+    "apk": "tachiyomi-ru.desu-v1.2.16.apk",
     "lang": "ru",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21137,10 +21137,10 @@
   {
     "name": "Tachiyomi: Henchan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.2.32.apk",
+    "apk": "tachiyomi-ru.henchan-v1.2.33.apk",
     "lang": "ru",
-    "code": 32,
-    "version": "1.2.32",
+    "code": 33,
+    "version": "1.2.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21149,7 +21149,7 @@
         "name": "Henchan",
         "lang": "ru",
         "id": "5504588601186153612",
-        "baseUrl": "https://xx.hentaichan.live"
+        "baseUrl": "https://xxx.hentaichan.live"
       }
     ]
   },
