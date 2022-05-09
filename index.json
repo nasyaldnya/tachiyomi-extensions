@@ -19526,10 +19526,10 @@
   {
     "name": "Tachiyomi: Mangakawaii",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-    "apk": "tachiyomi-fr.mangakawaii-v1.2.32.apk",
+    "apk": "tachiyomi-fr.mangakawaii-v1.2.33.apk",
     "lang": "fr",
-    "code": 32,
-    "version": "1.2.32",
+    "code": 33,
+    "version": "1.2.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20637,6 +20637,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangKomik",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangkomik",
+    "apk": "tachiyomi-id.mangkomik-v1.2.12.apk",
+    "lang": "id",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangKomik",
+        "lang": "id",
+        "id": "8457447675410081142",
+        "baseUrl": "https://mangkomik.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhuaID",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhuaid",
     "apk": "tachiyomi-id.manhuaid-v1.2.8.apk",
@@ -20652,6 +20673,27 @@
         "lang": "id",
         "id": "5867323867982990369",
         "baseUrl": "https://manhuaid.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ManhwaIndo",
+    "pkg": "eu.kanade.tachiyomi.extension.id.manhwaindo",
+    "apk": "tachiyomi-id.manhwaindo-v1.2.12.apk",
+    "lang": "id",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwa Indo",
+        "lang": "id",
+        "id": "862941840467210819",
+        "baseUrl": "https://manhwaindo.id",
         "versionId": 1,
         "hasCloudflare": 1
       }
