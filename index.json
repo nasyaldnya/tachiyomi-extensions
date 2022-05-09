@@ -17103,10 +17103,10 @@
   {
     "name": "Tachiyomi: Toonily",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonily",
-    "apk": "tachiyomi-en.toonily-v1.2.26.apk",
+    "apk": "tachiyomi-en.toonily-v1.2.27.apk",
     "lang": "en",
-    "code": 26,
-    "version": "1.2.26",
+    "code": 27,
+    "version": "1.2.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20765,10 +20765,10 @@
   {
     "name": "Tachiyomi: Sekaikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.sekaikomik",
-    "apk": "tachiyomi-id.sekaikomik-v1.2.20.apk",
+    "apk": "tachiyomi-id.sekaikomik-v1.2.21.apk",
     "lang": "id",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20777,7 +20777,7 @@
         "name": "Sekaikomik",
         "lang": "id",
         "id": "4017490974617506790",
-        "baseUrl": "https://www.sekaikomik.site",
+        "baseUrl": "https://www.sekaikomik.live",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20786,10 +20786,10 @@
   {
     "name": "Tachiyomi: Sekte Doujin",
     "pkg": "eu.kanade.tachiyomi.extension.id.sektedoujin",
-    "apk": "tachiyomi-id.sektedoujin-v1.2.16.apk",
+    "apk": "tachiyomi-id.sektedoujin-v1.2.17.apk",
     "lang": "id",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20798,7 +20798,7 @@
         "name": "Sekte Doujin",
         "lang": "id",
         "id": "7949854430526190429",
-        "baseUrl": "https://sektedoujin.xyz",
+        "baseUrl": "https://sektedoujin.club",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -25388,10 +25388,10 @@
   {
     "name": "Tachiyomi: Manga Sepeti",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangasepeti",
-    "apk": "tachiyomi-tr.mangasepeti-v1.2.20.apk",
+    "apk": "tachiyomi-tr.mangasepeti-v1.2.21.apk",
     "lang": "tr",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25400,7 +25400,7 @@
         "name": "Manga Sepeti",
         "lang": "tr",
         "id": "8705474943699968918",
-        "baseUrl": "https://www.mangasepeti.com",
+        "baseUrl": "https://www.mangasepeti.xyz",
         "versionId": 1,
         "hasCloudflare": 1
       }
