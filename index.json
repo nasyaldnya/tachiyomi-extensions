@@ -890,12 +890,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: BILIBILI",
-    "pkg": "eu.kanade.tachiyomi.extension.all.bilibili",
-    "apk": "tachiyomi-all.bilibili-v1.2.7.apk",
+    "name": "Tachiyomi: BILIBILI COMICS",
+    "pkg": "eu.kanade.tachiyomi.extension.all.bilibilicomics",
+    "apk": "tachiyomi-all.bilibilicomics-v1.2.1.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 1,
+    "version": "1.2.1",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -921,14 +921,6 @@
         "lang": "id",
         "id": "1333001923182974945",
         "baseUrl": "https://www.bilibilicomics.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      },
-      {
-        "name": "哔哩哔哩漫画",
-        "lang": "zh-Hans",
-        "id": "3561131545129718586",
-        "baseUrl": "https://manga.bilibili.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18697,6 +18689,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Legion Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.legionscan",
+    "apk": "tachiyomi-es.legionscan-v1.2.12.apk",
+    "lang": "es",
+    "code": 12,
+    "version": "1.2.12",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Legion Scan",
+        "lang": "es",
+        "id": "4283655386900020916",
+        "baseUrl": "https://legionscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LeoManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.leomanga",
     "apk": "tachiyomi-es.leomanga-v1.2.6.apk",
@@ -20616,22 +20629,22 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangceh",
+    "name": "Tachiyomi: Mareceh",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangceh",
-    "apk": "tachiyomi-id.mangceh-v1.2.23.apk",
+    "apk": "tachiyomi-id.mangceh-v1.2.24.apk",
     "lang": "id",
-    "code": 23,
-    "version": "1.2.23",
+    "code": 24,
+    "version": "1.2.24",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Mangceh",
+        "name": "Mareceh",
         "lang": "id",
-        "id": "4495422042360769403",
-        "baseUrl": "https://mangceh.me",
-        "versionId": 1,
+        "id": "3264828545961110765",
+        "baseUrl": "https://mareceh.com",
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -20807,10 +20820,10 @@
   {
     "name": "Tachiyomi: Sekaikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.sekaikomik",
-    "apk": "tachiyomi-id.sekaikomik-v1.2.21.apk",
+    "apk": "tachiyomi-id.sekaikomik-v1.2.20.apk",
     "lang": "id",
-    "code": 21,
-    "version": "1.2.21",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21948,7 +21961,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki163.net",
+        "baseUrl": "https://manatoki164.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21956,7 +21969,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki163.com",
+        "baseUrl": "https://newtoki164.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24611,10 +24624,10 @@
   {
     "name": "Tachiyomi: UniComics",
     "pkg": "eu.kanade.tachiyomi.extension.ru.unicomics",
-    "apk": "tachiyomi-ru.unicomics-v1.2.3.apk",
+    "apk": "tachiyomi-ru.unicomics-v1.2.4.apk",
     "lang": "ru",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24647,6 +24660,27 @@
         "baseUrl": "https://waymanga.ru",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Web of Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.webofcomics",
+    "apk": "tachiyomi-ru.webofcomics-v1.2.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Web of Comics",
+        "lang": "ru",
+        "id": "3857728382971075208",
+        "baseUrl": "https://webofcomics.ru",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
@@ -26241,6 +26275,27 @@
         "lang": "zh",
         "id": "5943234929466346733",
         "baseUrl": "https://comic.bh3.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: BILIBILI MANGA",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.bilibilimanga",
+    "apk": "tachiyomi-zh.bilibilimanga-v1.2.1.apk",
+    "lang": "zh-Hans",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "哔哩哔哩漫画",
+        "lang": "zh-Hans",
+        "id": "3561131545129718586",
+        "baseUrl": "https://manga.bilibili.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
