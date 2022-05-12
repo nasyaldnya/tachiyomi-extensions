@@ -4229,6 +4229,35 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaReader",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
+    "apk": "tachiyomi-all.mangareaderto-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaReader",
+        "lang": "en",
+        "id": "789561949979941461",
+        "baseUrl": "https://mangareader.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      },
+      {
+        "name": "MangaReader",
+        "lang": "ja",
+        "id": "796170456036421142",
+        "baseUrl": "https://mangareader.to",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaToon (Limited)",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangatoon",
     "apk": "tachiyomi-all.mangatoon-v1.2.3.apk",
@@ -19957,27 +19986,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Davey Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.id.daveyscans",
-    "apk": "tachiyomi-id.daveyscans-v1.2.13.apk",
-    "lang": "id",
-    "code": 13,
-    "version": "1.2.13",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Davey Scans",
-        "lang": "id",
-        "id": "3830380524256257723",
-        "baseUrl": "https://daveyscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: DoujinDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujindesu",
     "apk": "tachiyomi-id.doujindesu-v1.2.2.apk",
@@ -20014,48 +20022,6 @@
         "lang": "id",
         "id": "8443035369568081627",
         "baseUrl": "https://gabutscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: GURU Komik",
-    "pkg": "eu.kanade.tachiyomi.extension.id.gurukomik",
-    "apk": "tachiyomi-id.gurukomik-v1.2.14.apk",
-    "lang": "id",
-    "code": 14,
-    "version": "1.2.14",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "GURU Komik",
-        "lang": "id",
-        "id": "7905198752804178021",
-        "baseUrl": "https://gurukomik.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kaisar Komik",
-    "pkg": "eu.kanade.tachiyomi.extension.id.kaisarkomik",
-    "apk": "tachiyomi-id.kaisarkomik-v1.2.15.apk",
-    "lang": "id",
-    "code": 15,
-    "version": "1.2.15",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kaisar Komik",
-        "lang": "id",
-        "id": "6165985823394799354",
-        "baseUrl": "https://kaisarkomik.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20140,27 +20106,6 @@
         "lang": "id",
         "id": "5213948951740602020",
         "baseUrl": "https://klikmanga.id",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Kombatch",
-    "pkg": "eu.kanade.tachiyomi.extension.id.kombatch",
-    "apk": "tachiyomi-id.kombatch-v1.2.14.apk",
-    "lang": "id",
-    "code": 14,
-    "version": "1.2.14",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Kombatch",
-        "lang": "id",
-        "id": "911623545095065045",
-        "baseUrl": "https://kombatch.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20335,27 +20280,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Komik Manga",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komikmanga",
-    "apk": "tachiyomi-id.komikmanga-v1.2.5.apk",
-    "lang": "id",
-    "code": 5,
-    "version": "1.2.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Komik Manga",
-        "lang": "id",
-        "id": "8502643854625402659",
-        "baseUrl": "https://adm.komikmanga.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: KomikPlay",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikplay",
     "apk": "tachiyomi-id.komikplay-v1.2.2.apk",
@@ -20371,27 +20295,6 @@
         "lang": "id",
         "id": "48342143346368900",
         "baseUrl": "https://komikplay.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Komiksay",
-    "pkg": "eu.kanade.tachiyomi.extension.id.komiksay",
-    "apk": "tachiyomi-id.komiksay-v1.2.14.apk",
-    "lang": "id",
-    "code": 14,
-    "version": "1.2.14",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Komiksay",
-        "lang": "id",
-        "id": "5528161688249645038",
-        "baseUrl": "https://komiksay.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -20503,27 +20406,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaIndonesia",
-    "pkg": "eu.kanade.tachiyomi.extension.id.mangaindonesia",
-    "apk": "tachiyomi-id.mangaindonesia-v1.2.14.apk",
-    "lang": "id",
-    "code": 14,
-    "version": "1.2.14",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaIndonesia",
-        "lang": "id",
-        "id": "7542243559902212558",
-        "baseUrl": "https://mangaindonesia.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaKita",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangakita",
     "apk": "tachiyomi-id.mangakita-v1.2.13.apk",
@@ -20604,27 +20486,6 @@
         "baseUrl": "https://mangasusu.co.in",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaYu",
-    "pkg": "eu.kanade.tachiyomi.extension.id.mangayu",
-    "apk": "tachiyomi-id.mangayu-v1.2.2.apk",
-    "lang": "id",
-    "code": 2,
-    "version": "1.2.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaYu",
-        "lang": "id",
-        "id": "827842316898098593",
-        "baseUrl": "https://mangayu.com",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
