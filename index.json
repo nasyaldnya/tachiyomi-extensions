@@ -26270,10 +26270,10 @@
   {
     "name": "Tachiyomi: Haoman6",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6",
-    "apk": "tachiyomi-zh.haoman6-v1.2.1.apk",
+    "apk": "tachiyomi-zh.haoman6-v1.2.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26289,12 +26289,54 @@
     ]
   },
   {
+    "name": "Tachiyomi: Haoman6 (g-lens)",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6_glens",
+    "apk": "tachiyomi-zh.haoman6_glens-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "好漫6 (g-lens)",
+        "lang": "zh",
+        "id": "7629839236910528515",
+        "baseUrl": "https://www.g-lens.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Haoman8",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.haoman8",
+    "apk": "tachiyomi-zh.haoman8-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "好漫8",
+        "lang": "zh",
+        "id": "8428908309737098696",
+        "baseUrl": "https://caiji.haoman8.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Haomanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haomanwu",
-    "apk": "tachiyomi-zh.haomanwu-v1.2.2.apk",
+    "apk": "tachiyomi-zh.haomanwu-v1.2.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26600,6 +26642,27 @@
         "baseUrl": "https://m.ac.qq.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Terra Historicus",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.terrahistoricus",
+    "apk": "tachiyomi-zh.terrahistoricus-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "泰拉记事社",
+        "lang": "zh",
+        "id": "4585134706567717130",
+        "baseUrl": "https://terra-historicus.hypergryph.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
