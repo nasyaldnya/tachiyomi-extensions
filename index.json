@@ -25913,10 +25913,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.2.9.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.2.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25925,7 +25925,7 @@
         "name": "NetTruyen",
         "lang": "vi",
         "id": "5198966899163361086",
-        "baseUrl": "http://www.nettruyenmoi.com",
+        "baseUrl": "http://www.nettruyenco.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26144,10 +26144,10 @@
   {
     "name": "Tachiyomi: BILIBILI MANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bilibilimanga",
-    "apk": "tachiyomi-zh.bilibilimanga-v1.2.1.apk",
+    "apk": "tachiyomi-zh.bilibilimanga-v1.2.2.apk",
     "lang": "zh-Hans",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
